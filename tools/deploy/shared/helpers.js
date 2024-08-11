@@ -327,7 +327,6 @@ module.exports = {
   processBatch,
   createAddrRecorder,
   createSettingRecorder,
-  judgeContractVerified,
   verifyContract,
   waitForAnswer,
   getOrDeployContractWithPath,
