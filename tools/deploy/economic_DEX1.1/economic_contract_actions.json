@@ -1,0 +1,18 @@
+{
+ "PairexTradingStorageV1.setValut": "0xa82f861e395d8531297e197ee218bc7a19342821fa8e5dd679a9c452c6f9161a",
+ "PairexTradingStorageV1.setEcosystemManage": "0x6dc9021f54eb5b2d81ccab29887a1f80cb972303a64e67cab3bb403bbb8b7e33",
+ "PairexTradingStorageV1.approveEcoSystem": "0x3701cac244af416251b3f0c4ba1fcec5b6420add2b5eafb7b5b7d7d78d5db661",
+ "PairexTradingStorageV1.setPlatformFeeSharesP": "0x2e7aa19ef2e2b4353135a2eb096a46ebde7d8dfedc2adf63c85ab7eafa74c0aa",
+ "esPEX.setConvertPEXAddress.vester": "0xa04518f28bb79ffbe2fff71902b92ed20f908e237da2bd254b90a59158c9e0ef",
+ "esPEX.setConvertEsPEXAddress.deployer": "0x1b48fa46d7dab8fe394b571f7f30085f4528f847b727a2ee39767885f83072c5",
+ "PEX.approve.deployer": "0x77e57d0da1f922047b893330e12707d86033ac610f88222b425d9adcb37a2c55",
+ "PLPStaking.approve.deployer": "0xe82ec5b914aadb6c31bff4f620a063e28f0dec76a28339fdc782d720ba0ed57e",
+ "PEX.staking.approve.deployer": "0x77cb7ea8350f2e9aa576fece38b9e784b70a37255a60fb3d2066096af1c1d33a",
+ "esPEX.staking.approve.deployer": "0x6beea9d0af3a53b2149e8d4b127667b912bb94a799fcddec08b842984ad588b9",
+ "EcosystemManage.Approve": "0x8ea7120cad9f167867ceb06e903e6a685582ebe18f50dbfa1e478f0ccd6a01f9",
+ "EcosystemManage.ApprovePERMIT2": "0x03cdc09f5b227c99596b2637edfa81633d4c33ee4e07565c1255f0399de72ec7",
+ "EcosystemManage.addTriggeredWhiteList": "0xeb3bc5d05510c84b9071e6022abe5b592a9f51f82c1f2ace586afb34278ff68e",
+ "EcosystemManage.setEcosystemSharesP": "0x515886f8f5831faea20a7c10e9992d3a7c62379be60ad815466b4d0f72df81fd",
+ "EcosystemManage.setRewardRouter": "0x7d17d442b40d116c36364e1fdc010cba5db6926ec9ab3b2db98d1ee274589d5b",
+ "EcosystemManage.setPlpStaking": "0xe953156ca4606dc8e8c742e35ce219ba9b640b798f9b1b9ea9edb31dd6aa71f1"
+}

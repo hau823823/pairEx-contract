@@ -1,0 +1,15 @@
+node_modules/
+typechain/
+*.log
+.idea
+.vscode
+.DS_Store
+yarn.lock
+#Hardhat files
+cache
+artifacts
+abi
+actions.json
+addrList.json
+
+config.yaml

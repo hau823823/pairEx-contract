@@ -1,0 +1,26 @@
+{
+    "name": " PairEx Premium Pass",
+    "description": "Enjoy 0 trading fee on PairEx",
+    "image": "https://pairex.io/nftMonthlyPass/metadata/2311.png",
+    "external_url": "https://pairex.io/",
+    "attributes": [
+        {
+            "display_type": "number", 
+            "value": 2023
+        }, 
+        {
+            "display_type": "number", 
+            "value": 11
+        },
+        {
+            "display_type": "date", 
+            "trait_type": "Strart time", 
+            "value": 1698796800
+        },
+        {
+            "display_type": "date", 
+            "trait_type": "End time", 
+            "value": 1701388800
+        }
+    ]
+}

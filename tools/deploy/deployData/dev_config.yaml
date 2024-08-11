@@ -1,0 +1,19 @@
+address_private:
+  deploy_private: "your own evm private key"
+address:
+    lp_feed: "0x29cc6a5768607e572ADF7DdE8fE278faffC26de7"
+    bot_triggered: "0x29cc6a5768607e572ADF7DdE8fE278faffC26de7"
+    inner_deployer: "0x29cc6a5768607e572ADF7DdE8fE278faffC26de7"
+    oracle_server_addr: ["0x29cc6a5768607e572ADF7DdE8fE278faffC26de7","0x29cc6a5768607e572ADF7DdE8fE278faffC26de7"]
+    usdt_faucet_addr: "0x310F3aba0dF56C91082276f77a061130B3334175"
+    link_token: "0xb1D4538B4571d411F07960EF2838Ce337FE1E80E"
+    link_price_feed: "0x0FB99723Aee6f420beAD13e6bBB79b7E6F034298"
+    usdt_price_feed: "0x80EDee6f667eCc9f63a0a6f55578F870651f06A4"
+    btc_price_feed: "0x56a43EB56Da12C0dc1D972ACb089c06a5dEF8e69"
+    eth_price_feed: "0xd30e2101a97dcbAeBCBC04F14C3f624E67A35165"
+url:
+    node_rpc: ["https://arb-sepolia.g.alchemy.com/v2/your_own_api_key","https://arb-mainnet.g.alchemy.com/v2/your_own_api_key"]
+    browser_api: "https://api-goerli.arbiscan.io/api"
+    browser_url: "https://goerli.arbiscan.io"
+api_key:
+  browser_api_key: "your own browser api key"
