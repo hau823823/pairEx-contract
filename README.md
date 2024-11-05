@@ -83,10 +83,10 @@ The main entry contract for frontend interfaces or users opening and closing int
 |index|uint|existing positions index| |
 |newSl|uint|new price|PRECISION 10|
 
-## UML
+## Arch
 
 >[!TIP]  
-> This UML diagram primarily illustrates the contract interaction logic and cash flow logic
+> This Arch diagram primarily illustrates the contract interaction logic and cash flow logic
 
 ![PairEx UML](/img/UML.jpg)
 
